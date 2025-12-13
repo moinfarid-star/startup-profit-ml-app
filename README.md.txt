@@ -13,3 +13,5 @@ To build a web application that predicts startup profit using Multiple Linear Re
 
 ## Status
 Project initialized. Model and web app will be added soon.
+## Author
+Created by Moin Farid
