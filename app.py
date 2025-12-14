@@ -46,3 +46,4 @@ input_data = input_data.reindex(columns=X.columns, fill_value=0)
 if st.button("Predict Profit"):
     prediction = model.predict(input_data)
     st.success(f"Predicted Profit: ${prediction[0]:,.2f}")
+st.caption("⚠️ Prediction is based on historical startup data and linear assumptions.")
