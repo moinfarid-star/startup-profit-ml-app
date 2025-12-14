@@ -4,4 +4,4 @@ st.title("Startup Profit Prediction App")
 
 st.write("This app will predict startup profit using Machine Learning.")
 
-st.write("🚧 Model coming soon...")
+st.info("🚀 Model integration coming soon")
