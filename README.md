@@ -30,3 +30,31 @@ Initial Streamlit app added.
 
 
 
+\## Live Demo
+
+👉 https://YOUR\_STREAMLIT\_URL\_HERE
+
+
+
+\## What I Learned
+
+\- Data preprocessing and one-hot encoding
+
+\- Training and deploying ML models
+
+\- Building interactive apps using Streamlit
+
+\- End-to-end ML project workflow
+
+
+
+\## Next Improvements
+
+\- Model evaluation metrics (R², MAE)
+
+\- Feature scaling
+
+\- Model persistence (joblib)
+
+
+
