@@ -32,7 +32,7 @@ Initial Streamlit app added.
 
 \## Live Demo
 
-👉 https://YOUR\_STREAMLIT\_URL\_HERE
+👉 https://startup-profit-ml-app-swtskuunhf7jxvjz6dndzq.streamlit.app/
 
 
 
